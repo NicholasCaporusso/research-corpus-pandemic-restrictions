@@ -13,7 +13,7 @@ If you have any questions, contact the author at http://www.nicholascaporusso.co
     "id": "UzpfSTc5NTcyNDA6Vks6NjY4MDEwOTQ3OTI2NzA1",
     "user_id": "7957240",
     "date": "2021-09-06 07:57:57",
-    "text": [
+    "text": {
       "My partner is German, I\u2019m US.":{
 	    "sentiment":{
 	      "prediction": "NEU", 
@@ -62,7 +62,7 @@ If you have any questions, contact the author at http://www.nicholascaporusso.co
 	      "prob": {"others": 0.967458, "joy": 0.00989054, "sadness": 0.002096524, "anger": 0.003377248, "surprise": 0.00715754, "disgust": 0.00538475, "fear": 0.00463525}
 	    }
 	  }
-    ],
+    },
     "comment_count": 60,
     "reaction_count": 13,
     "share_count": 0,
